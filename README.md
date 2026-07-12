@@ -47,7 +47,7 @@ Tuned via RandomizedSearchCV: XGBoost, Random Forest, Decision Tree, Bagging, Gr
 Built a stacking ensemble combining Bagging and Random Forest, with XGBoost as the final estimator
 
 ## Results
-- **Test accuracy:** 92.9% *(verify against your saved notebook output before publishing)*
+- **Test accuracy:** 92.9%
 - Ranked among top performers in the hackathon cohort
 
 ## Tools & Libraries
